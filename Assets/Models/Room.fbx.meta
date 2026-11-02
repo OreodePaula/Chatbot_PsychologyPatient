@@ -12,8 +12,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Hammered_Metal_Gold
+    second: {fileID: 2100000, guid: 45eeb7c6cb41e624ab42052987cfad59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Leather.002
     second: {fileID: 2100000, guid: 42715e0c2d8a7d54e87c3b75d495f995, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.033
+    second: {fileID: 2100000, guid: 059806ddc1beb4c49a4c2523c50ab644, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -24,6 +34,21 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Quadro material
     second: {fileID: 2100000, guid: 61059be6f5ee52f449fd4aadacf3b26c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soil
+    second: {fileID: 2100000, guid: fd7fa0e052562ba49869bf4acf54a299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 7eadb5e5174107d46b352ca1851e71bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood Floor Procedural
+    second: {fileID: 2100000, guid: 6c22a9705d507b54d9d0f07527fee872, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
