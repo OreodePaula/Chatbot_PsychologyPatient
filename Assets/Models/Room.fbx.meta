@@ -7,6 +7,16 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Basic glass.001
+    second: {fileID: 2100000, guid: 05d54441cbe9aa0468465c6b8be22df7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brushed Steel Procedural.001
+    second: {fileID: 2100000, guid: 58148404a21e1fa438e00e6d0f2c3766, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Fabric pilows.001
     second: {fileID: 2100000, guid: 4a1c4da24124b514bbb1a48dff54cd9b, type: 2}
   - first:
@@ -19,6 +29,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Leather.002
     second: {fileID: 2100000, guid: 42715e0c2d8a7d54e87c3b75d495f995, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: af7d2a905694cd646b1e8513920f6199, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -39,6 +54,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Soil
     second: {fileID: 2100000, guid: fd7fa0e052562ba49869bf4acf54a299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: f3fb29f033cd89f41a9da54d6dc785ea, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
